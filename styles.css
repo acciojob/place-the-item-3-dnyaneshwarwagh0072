@@ -1,2 +1,6 @@
+.holder {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
 
-/* Your CSS Code here. */
